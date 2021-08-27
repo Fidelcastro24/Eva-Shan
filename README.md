@@ -54,7 +54,7 @@ $ node Eva.js
 <img src="https://img.shields.io/github/repo-size/J0kerser/Sarasu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/J0kerser/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
+<img title="Followers" src="https://img.shields.io/github/followers/Fidelcastro24?color=blue&style=flat-square"></a>
 <a href="https://github.com/J0kerser/Sarasu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/J0kerser/Sarasu?color=blue&style=flat-square"></a>
 <a href="https://github.com/J0kerser/Sarasu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/J0kerser/Sarasu?color=blue&style=flat-square"></a>
 <a href="https://github.com/J0kerser/Sarasu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/J0kerser/Sarasu?label=Watchers&color=blue&style=flat-square"></a>
