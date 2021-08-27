@@ -34,7 +34,7 @@ $ git clone https://github.com/Fidelcastro24/Eva-Shan
 $ cd Eva-Shan
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node sarasu.js
+$ node Eva.js
 ```
       
 ```js
@@ -42,7 +42,7 @@ SETUP
 $ git clone https://github.com/Fidelcastro24/Eva-Shan
 $ cd Eva-Shan
 $ npm i
-$ node sarasu.js
+$ node Eva.js
 ```
 
 ----
