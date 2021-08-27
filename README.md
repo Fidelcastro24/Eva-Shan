@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/J0kerser">J0kerser</a> to make it
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J0kerser/Sarasu) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fidelcastro24/Eva-Shan) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -30,8 +30,8 @@ Project created by <a href="https://github.com/J0kerser">J0kerser</a> to make it
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/J0kerser/Sarasu
-$ cd Sarasu
+$ git clone https://github.com/Fidelcastro24/Eva-Shan
+$ cd Eva-Shan
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node sarasu.js
@@ -39,8 +39,8 @@ $ node sarasu.js
       
 ```js
 SETUP
-$ git clone https://github.com/J0kerser/Sarasu
-$ cd Sarasu
+$ git clone https://github.com/Fidelcastro24/Eva-Shan
+$ cd Eva-Shan
 $ npm i
 $ node sarasu.js
 ```
